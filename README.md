@@ -42,7 +42,8 @@
 
 <div>
 <<<<<<< HEAD
-<img height="170" align="left" alt="blvck-code' src="https://github-readme-stats.vercel.app/api?username=blvck-code&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<img align="left" alt="blvck-code's Github Stats" src="https://github-readme-stats.vercel.app/api?username=blvck-code&show_icons=true&hide_border=true" />
+=======
 
 <img height="170" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blvck-code&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
 </div>
