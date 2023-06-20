@@ -3,19 +3,17 @@
 [![Website](https://img.shields.io/website?label=brianoluoch.netlify.app&style=for-the-badge&url=https%3A%2F%2Fbrianoluoch.netlify.app)](https://brianoluoch.netlify.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/blvck_code?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/blvck_code)
 
-## I'm a FullStack Developer(React.js & Django Rest Framework)
+## I'm a Frontend Web Developer(React.js, Next JS, Angular & React Native)
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love football & travelling
+- 🌱 I’m currently learning to be a Fullstack developer.
+- 👯 I’m looking to collaborate with other Software Developers.
+- 🥅 2020 Goals: Contribute more to Open Source projects.
 
 ### Connect with me:
 
 [<img align="left" alt="brianoluoch.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="blvck_code | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Brian Maurice Oluoch | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="oluoch_jnr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
