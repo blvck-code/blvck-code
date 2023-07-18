@@ -1,7 +1,6 @@
-### Hi there, I'm Maurice - aka [Ryan][website] 👋
+### Hi there, I'm Maurice
 
 [![Website](https://img.shields.io/website?label=brianoluoch.netlify.app&style=for-the-badge&url=https%3A%2F%2Fbrianoluoch.netlify.app)](https://brianoluoch.netlify.app)
-[![Twitter Follow](https://img.shields.io/twitter/follow/blvck_code?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/blvck_code)
 
 ## I'm a Frontend Web Developer(React.js, Next JS, Angular & React Native)
 
